@@ -58,9 +58,3 @@ I’m still a student, but already thinking like a dev in production.
 <img src="https://raw.githubusercontent.com/Ibrohimstilllearning/Ibrohimstilllearning/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="?" alt="Widget with the current Spotify song"  />
-</div>
-
-###
