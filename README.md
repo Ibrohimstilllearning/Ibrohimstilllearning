@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Wagwan!, It's Ibrohimstilllearning
 
-<!--
-**Ibrohimstilllearning/Ibrohimstilllearning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend enthusiast | 🚀 Flutter explorer | 🎓 Still grinding in vocational high school IDN BOARDING SCHOOL (SMK)
 
-Here are some ideas to get you started:
+![muah](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBmcnRlZDlsZG1obTVqaDcyZWx0bXkxZTJscXVydTV1YXhjNWFvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytu2GUYbvhz7zShGwS/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- Currently a student at SMK (not graduated yet, still in the process 💀)
+- Interested in **Backend Development** & **Flutter Development**
+- Love building things that actually *work* (not just exist)
+- Trying to level up every single day
+
+---
+
+## 🧠 Tech Stack
+- 💙 Flutter (still learning, but getting there)
+- 🔧 Backend (API, logic, database stuff)
+- 🐘 PHP / Node.js (depends on the mood)
+- 🗄️ MySQL
+
+---
+
+## 📌 Current Focus
+- Building mobile apps with Flutter
+- Improving backend architecture skills
+- Learning how real-world apps actually scale
+
+
+---
+
+## 🔥 Quote I Live By
+> "Code. Break. Fix. Repeat. That's the game."
+
+---
+
+## 📫 Let's Connect
+- Still lowkey building myself, but yeah... soon.
+
+---
+
+⚡ Fun Fact:
+I’m still a student, but already thinking like a dev in production.
