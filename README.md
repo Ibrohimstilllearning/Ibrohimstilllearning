@@ -14,11 +14,8 @@
 
 ---
 
-## 🧠 Tech Stack
-- 💙 Flutter (still learning, but getting there)
-- 🔧 Backend (API, logic, database stuff)
-- 🐘 PHP / Node.js (depends on the mood)
-- 🗄️ MySQL
+## 💻 Tech Stack/ Skills
+![My Skills](https://skillicons.dev/icons?i=html,css,git,github,discord,bootstrap,tailwind,nodejs,flutter,laravel)
 
 ---
 
@@ -26,6 +23,11 @@
 - Building mobile apps with Flutter
 - Improving backend architecture skills
 - Learning how real-world apps actually scale
+
+
+---
+
+## 🗒️ My Statistics
 
 
 ---
@@ -42,3 +44,23 @@
 
 ⚡ Fun Fact:
 I’m still a student, but already thinking like a dev in production.
+
+---
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibrohimstilllearning/Ibrohimstilllearning/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ibrohimstilllearning/Ibrohimstilllearning/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ibrohimstilllearning/Ibrohimstilllearning/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Ibrohimstilllearning/Ibrohimstilllearning/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="?" alt="Widget with the current Spotify song"  />
+</div>
+
+###
