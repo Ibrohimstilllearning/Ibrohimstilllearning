@@ -15,7 +15,7 @@
 ---
 
 ## 💻 Tech Stack/ Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,git,github,discord,bootstrap,tailwind,nodejs,flutter,laravel)
+![My Skills](https://skillicons.dev/icons?i=html,css,git,github,discord,bootstrap,tailwind,flutter,laravel,react,mysql)
 
 ---
 
