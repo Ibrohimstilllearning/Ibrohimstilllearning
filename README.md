@@ -1,6 +1,6 @@
 # 👋 Wagwan!, It's Ibrohimstilllearning
 
-💻 Backend enthusiast | 🚀 Flutter explorer | 🎓 Still grinding in vocational high school IDN BOARDING SCHOOL (SMK)
+💻 Software Developer enthusiast | 🚀 Flutter explorer | 🎓 Still grinding in vocational high school IDN BOARDING SCHOOL (SMK)
 
 ![muah](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBmcnRlZDlsZG1obTVqaDcyZWx0bXkxZTJscXVydTV1YXhjNWFvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytu2GUYbvhz7zShGwS/giphy.gif)
 
