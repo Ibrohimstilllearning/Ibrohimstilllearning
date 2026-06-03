@@ -1,6 +1,6 @@
 # 👋 Wagwan!, It's Ibrohimstilllearning
 
-💻 Software Developer enthusiast | 🚀 Flutter explorer | 🎓 Still grinding in vocational high school IDN BOARDING SCHOOL (SMK)
+💻 Software Developer enthusiast | 🎓 Still grinding in vocational high school IDN BOARDING SCHOOL (SMK)
 
 ![muah](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBmcnRlZDlsZG1obTVqaDcyZWx0bXkxZTJscXVydTV1YXhjNWFvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytu2GUYbvhz7zShGwS/giphy.gif)
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - Currently a student at SMK (not graduated yet, still in the process 💀)
-- Interested in **Backend Development** & **Flutter Development**
+- Interested in **Backend Development** , **Flutter Development**, **Fullstack Development**
 - Love building things that actually *work* (not just exist)
 - Trying to level up every single day
 
@@ -21,6 +21,7 @@
 
 ## 📌 Current Focus
 - Building mobile apps with Flutter
+- Building Web apps with Laravel/React
 - Improving backend architecture skills
 - Learning how real-world apps actually scale
 
